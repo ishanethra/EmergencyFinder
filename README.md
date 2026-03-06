@@ -65,13 +65,3 @@ The app prioritizes speed and reliability, featuring offline caching and a dual-
 ## 🛡 Security & Privacy
 *   **No Cloud Tracking**: All emergency contacts and cached locations are stored locally on the device.
 *   **Permission Transparency**: The app only uses location and SMS permissions when explicitly triggered by the user or an emergency shake event.
-
----
-
-## 🤝 Contributing
-Contributions are welcome! If you have ideas for improving the accident detection algorithm or adding more map providers, please open an issue or submit a pull request.
-
----
-
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
