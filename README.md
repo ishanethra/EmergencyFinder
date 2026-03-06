@@ -62,14 +62,6 @@ The app prioritizes speed and reliability, featuring offline caching and a dual-
 
 ---
 
-## 📱 Screenshots
-
-| Home Screen | SOS Trigger | Emergency List |
-| :---: | :---: | :---: |
-| ![Home](https://via.placeholder.com/200x400?text=Home+Screen) | ![SOS](https://via.placeholder.com/200x400?text=SOS+Trigger) | ![List](https://via.placeholder.com/200x400?text=Services+List) |
-
----
-
 ## 🛡 Security & Privacy
 *   **No Cloud Tracking**: All emergency contacts and cached locations are stored locally on the device.
 *   **Permission Transparency**: The app only uses location and SMS permissions when explicitly triggered by the user or an emergency shake event.
